@@ -1,12 +1,21 @@
 {
   "name": "npm-module-test-180824",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "npm publish test",
+  "main": "build/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonminjeon/npm-module-test-180824.git"
+  },
+  "keywords": [
+    "npm",
+    "build",
+    "module",
+    "package"
+  ],
   "author": "",
   "license": "ISC"
 }
